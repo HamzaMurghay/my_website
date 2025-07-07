@@ -26,6 +26,9 @@ export default function Home() {
       />
 
    </div>
+
+   <audio src="/audio/bombardiro-crocodilo_4kNJ6me.mp3-" autoPlay />
+
    
 
    </div>
